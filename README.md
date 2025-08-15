@@ -1,37 +1,56 @@
-# Hi there, I'm Sudeen Jain 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Sudeen Jain H R</h1>
+<h3 align="center">B.Tech Student in Artificial Intelligence & Machine Learning | Srinivas University, Mangalore</h3>
 
-## 🚀 About Me
-🎓 B.Tech in Artificial Intelligence & Machine Learning (Srinivas University, Mangalore)  
-💻 Passionate about AI, ML, and building real-world applications.  
-🌱 Currently learning advanced deep learning and UI/UX design.
+---
 
-## 🔧 Skills
-- Python, HTML, CSS, JavaScript
-- Databases, Firebase
-- UI/UX (Figma, Adobe XD)
+### 🚀 About Me  
+- 🎓 **B.Tech (AIML)** at Srinivas University, Mangalore  
+- 💻 Passionate about **AI, Machine Learning, and Real-World Applications**  
+- 🌱 Currently exploring **Deep Learning** and **UI/UX Design**  
+- 🎯 Goal: Build innovative AI-powered solutions that create impact  
 
-## 📌 Featured Projects
-- [Daily Task Manager](https://github.com/your-repo)
-- [Currency Converter](https://github.com/your-repo)
+---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chirag-n-222713292)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Chirag-n79)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:cn828958@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-## Hi there 👋
+### 🛠 Skills  
+**Languages & Tools:**  
+`Python` · `HTML` · `CSS` · `JavaScript` · `Databases` · `Firebase` · `Video Editing`  
+**Design Tools:**  
+`Figma` · `Adobe XD`
 
-<!--
-**sudeenjain/sudeenjain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📌 Featured Projects  
+- 📝 **[Daily Task Manager](https://github.com/your-repo)** – Task manager with login, timer, and progress tracking  
+- 💱 **[Currency Converter](https://github.com/your-repo)** – Live exchange rate-based currency converter  
+- 🤖 **[AI Chatbot](https://github.com/your-repo)** – AI-powered chatbot for WhatsApp and web  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📜 Certifications  
+- AWS Certified  
+- Microsoft Azure  
+- Infosys Springboard  
+- Forage (AWS, IBM, Machine Learning)  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudeenjain&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeenjain&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
+
+---
+
+### 📫 Connect With Me  
+<p align="center">
+  <a href="mailto:sudinhr1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://github.com/sudeenjain"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="www.linkedin.com/in/sudeen-jain-01su23ai094"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/sudeen_jain"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
+
+---
+
+⭐️ From [Sudeen Jain H R](https://github.com/sudeenjain)
