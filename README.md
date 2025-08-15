@@ -22,13 +22,6 @@
 
 ---
 
-### 📌 Featured Projects  
-- 📝 **[Daily Task Manager](https://github.com/your-repo)** – Task manager with login, timer, and progress tracking  
-- 💱 **[Currency Converter](https://github.com/your-repo)** – Live exchange rate-based currency converter  
-- 🤖 **[AI Chatbot](https://github.com/your-repo)** – AI-powered chatbot for WhatsApp and web  
-
----
-
 ### 📜 Certifications  
 - AWS Certified  
 - Microsoft Azure  
