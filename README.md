@@ -1,6 +1,6 @@
-<!-- Typing Effect -->
+<!-- Typing Effect (One Time) -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F707&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudeen+Jain+H+R;AI+%26+Machine+Learning+Student;Tech+Enthusiast+%26+Developer;UI%2FUX+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=9999999&color=00F707&center=true&vCenter=true&width=500&lines=Sudeen+Jain+H+R" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">B.Tech in Artificial Intelligence & Machine Learning | Srinivas University, Mangalore</h3>
