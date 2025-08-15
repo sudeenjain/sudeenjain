@@ -1,22 +1,24 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Sudeen Jain H R</h1>
-<h3 align="center">B.Tech Student in Artificial Intelligence & Machine Learning | Srinivas University, Mangalore</h3>
+<!-- Typing Effect -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F707&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sudeen+Jain+H+R;AI+%26+Machine+Learning+Student;Tech+Enthusiast+%26+Developer;UI%2FUX+Learner" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">B.Tech in Artificial Intelligence & Machine Learning | Srinivas University, Mangalore</h3>
 
 ---
 
 ### 🚀 About Me  
 - 🎓 **B.Tech (AIML)** at Srinivas University, Mangalore  
 - 💻 Passionate about **AI, Machine Learning, and Real-World Applications**  
-- 🌱 Currently exploring **Deep Learning** and **UI/UX Design**  
+- 🌱 Currently learning **Deep Learning** and **UI/UX Design**  
 - 🎯 Goal: Build innovative AI-powered solutions that create impact  
 
 ---
 
-### 🛠 Skills  
-**Languages & Tools:**  
-`Python` · `HTML` · `CSS` · `JavaScript` · `Databases` · `Firebase` · `Video Editing`  
-**Design Tools:**  
-`Figma` · `Adobe XD`
+### 🛠 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,firebase,figma" />
+</p>
 
 ---
 
@@ -35,9 +37,13 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats & Activity  
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeenjain&theme=radical" alt="GitHub Streak" height="165" />
   <img src="https://github-readme-stats.vercel.app/api?username=sudeenjain&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeenjain&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
@@ -47,10 +53,17 @@
 <p align="center">
   <a href="mailto:sudinhr1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://github.com/sudeenjain"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="www.linkedin.com/in/sudeen-jain-01su23ai094"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/sudeen-jain-01su23ai094"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://instagram.com/sudeen_jain"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
-⭐️ From [Sudeen Jain H R](https://github.com/sudeenjain)
+### 👀 Profile Visitors  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sudeenjain&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+---
+
+⭐ From [Sudeen Jain H R](https://github.com/sudeenjain)
