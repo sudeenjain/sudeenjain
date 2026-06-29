@@ -13,6 +13,7 @@
 <img src="https://img.shields.io/badge/Cloud%20Computing-3B82F6?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/IBM%20Watsonx-2563EB?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full--Stack%20Developer-7C3AED?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-8B5CF6?style=flat-square&logoColor=white"/>
 
 <br/><br/>
 
@@ -20,6 +21,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-3B82F6?style=flat-square&logo=github&logoColor=white)](https://github.com/sudeenjain)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sudeenjain)
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:sudinhr1@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-3B82F6?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/sudeenjain/sudeenjain/blob/main/resume.pdf)
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=8B5CF6&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsudeenjain"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=6366F1&label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsudeenjain"/>
+<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=3B82F6&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsudeenjain"/>
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=sudeenjain&style=flat-square&color=8B5CF6&label=Profile+Views"/>
 
@@ -41,6 +51,18 @@ const sudeen = {
     funFact: "Turns side projects into shipped products 🚀"
 };
 ```
+
+<br/>
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Duration | Status |
+|---|---|:---:|:---:|
+| B.Tech, Artificial Intelligence & Machine Learning | Srinivas University | 2023 – 2027 | 🟢 Currently Pursuing |
+
+</div>
 
 <br/>
 
@@ -178,6 +200,20 @@ const sudeen = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudeenjain&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeenjain&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=A78BFA"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeenjain&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=60A5FA&area=true&area_color=3B82F6" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🎮 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sudeenjain&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&column=4"/>
 
 </div>
 
