@@ -23,16 +23,6 @@
 [![Email](https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:sudinhr1@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-3B82F6?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/sudeenjain/sudeenjain/blob/main/resume.pdf)
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=8B5CF6&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsudeenjain"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=6366F1&label=Following&query=following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsudeenjain"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=3B82F6&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsudeenjain"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sudeenjain&style=flat-square&color=8B5CF6&label=Profile+Views"/>
-
 </div>
 
 <br/>
