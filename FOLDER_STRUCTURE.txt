@@ -1,0 +1,22 @@
+sudeenjain/
+├── README.md
+├── resume.pdf                 # keep your existing file
+├── SETUP.md
+├── assets/
+│   ├── profile/portrait.png
+│   ├── skills.json
+│   ├── projects.json
+│   ├── radar/
+│   ├── stats/
+│   ├── projects/
+│   └── metrics.*.svg
+├── scripts/
+│   ├── radar.py
+│   ├── languages.py
+│   ├── project_cards.py
+│   └── stats.py
+└── .github/
+    └── workflows/
+        ├── snake.yml
+        ├── charts.yml
+        └── metrics.yml

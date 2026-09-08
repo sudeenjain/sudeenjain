@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180">
+<rect width="100%" height="100%" rx="18" fill="#0d1117"/>
+<text x="450" y="78" fill="#e6edf3" font-family="Arial" font-size="24" text-anchor="middle">Profile metrics will appear here</text>
+<text x="450" y="116" fill="#8b949e" font-family="Arial" font-size="16" text-anchor="middle">Run the Metrics workflow after adding METRICS_TOKEN</text>
+</svg>

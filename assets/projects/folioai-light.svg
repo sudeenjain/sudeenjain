@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="300">
+<rect x="2" y="2" width="836" height="296" rx="24" fill="#ffffff" stroke="#d0d7de" stroke-width="3"/>
+<circle cx="52" cy="52" r="10" fill="#ff4b2b"/>
+<text x="78" y="61" fill="#24292f" font-size="30" font-weight="700" font-family="Arial">FolioAI</text>
+<text x="44" y="112" fill="#57606a" font-size="17" font-family="Arial">sudeenjain/folioAI</text>
+<text x="44" y="162" fill="#24292f" font-size="19" font-family="Arial">AI-assisted portfolio generation and presentation experience.</text>
+<rect x="44" y="230" width="752" height="40" rx="20" fill="#ff4b2b" fill-opacity=".12"/>
+<text x="64" y="257" fill="#ff4b2b" font-size="17" font-weight="600" font-family="Arial">AI · Portfolio · Frontend</text>
+</svg>

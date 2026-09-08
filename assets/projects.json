@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "guesture_flow",
+    "title": "Gesture Flow",
+    "repo": "sudeenjain/guesture_flow",
+    "description": "Computer-vision project focused on gesture-driven interaction.",
+    "stack": [
+      "AI",
+      "Computer Vision",
+      "Web"
+    ]
+  },
+  {
+    "slug": "ai_resume_architect",
+    "title": "AI Resume Architect",
+    "repo": "sudeenjain/AI-Resume_Architect",
+    "description": "AI-powered workflow for creating and improving professional resumes.",
+    "stack": [
+      "AI",
+      "Resume",
+      "Web"
+    ]
+  },
+  {
+    "slug": "folioai",
+    "title": "FolioAI",
+    "repo": "sudeenjain/folioAI",
+    "description": "AI-assisted portfolio generation and presentation experience.",
+    "stack": [
+      "AI",
+      "Portfolio",
+      "Frontend"
+    ]
+  },
+  {
+    "slug": "abhimotracker",
+    "title": "AbhimoTracker",
+    "repo": "sudeenjain/AbhimoTracker",
+    "description": "Employee attendance and productivity tracking platform.",
+    "stack": [
+      "Full Stack",
+      "Tracking",
+      "Automation"
+    ]
+  }
+]
