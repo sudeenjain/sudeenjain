@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.59733340775466" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="219.59733340775466" y="0" width="125.0286269014095" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="344.6259603091642" y="0" width="30.794350147965417" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="375.4203104571296" y="0" width="25.455661774758376" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="400.87597223188794" y="0" width="22.635434193806613" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="423.51140642569453" y="0" width="18.102269768670897" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="441.6136761943655" y="0" width="16.35504493718756" height="8" fill="#7355dd"/>
-                    <rect mask="url(#languages-bar)" x="457.968721131553" y="0" width="2.031278868446962" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.00641074775024" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="267.00641074775024" y="0" width="98.28910461704919" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="365.2955153647994" y="0" width="24.208448723460272" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="389.50396408825975" y="0" width="20.079876072947666" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="409.58384016120743" y="0" width="20.01153068127664" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="429.59537084248404" y="0" width="14.230788029864243" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="443.8261588723483" y="0" width="12.857237279870075" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="456.6833961522184" y="0" width="3.3166038477816766" height="8" fill="#3D6117"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -51,15 +51,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        PHP
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        PHP
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -75,9 +75,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#b07219" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Java
+                        TeX
                     </div>
                 </div>
             </section>
